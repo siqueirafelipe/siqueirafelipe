@@ -8,10 +8,10 @@ I'm a 20 years old tech student looking for my first job as a junior developer a
 
 <b> Connect with me: <b> <br>
   <p>
-  <a href="https://www.instagram.com/_.siqueiraaa/">
+  <a href="https://www.instagram.com/_.siqueiraaa/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
   <br>
-  <a href="https://www.linkedin.com/in/felipesiqueiralima/">
+  <a href="https://www.linkedin.com/in/felipesiqueiralima/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   </p>
 

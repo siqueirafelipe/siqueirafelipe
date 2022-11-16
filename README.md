@@ -8,7 +8,7 @@ I'm a 20 years old tech student looking for my first job as a junior developer a
 
 <b> Connect with me: <b> <br>
   <p>
-  <a href="https://www.instagram.com/_.siqueiraaa/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/_.siqueiraaa/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
   <br>
   <a href="https://www.linkedin.com/in/felipesiqueiralima/" target="_blank">

@@ -7,8 +7,13 @@ I'm a 20 years old tech student looking for my first job as a junior developer a
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo">
 
 <b> Connect with me: <b> <br>
-  <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <br>
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <p>
+  <a href="https://www.instagram.com/_.siqueiraaa/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
+  <br>
+  <a href="https://www.linkedin.com/in/felipesiqueiralima/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  </p>
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=siqueirafelipe).](https://github.com/anuraghazara/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siqueirafelipe).](https://github.com/anuraghazara/github-readme-stats)

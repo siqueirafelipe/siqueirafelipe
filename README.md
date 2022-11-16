@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a 20 years old tech student looking for my first job as a junior developer and for now learning about these subjects:
+I'm a 20 years old tech student looking for challenges and knowledge. Currently learning about these subjects:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"> 
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
@@ -8,10 +8,10 @@ I'm a 20 years old tech student looking for my first job as a junior developer a
 
 <b> Connect with me: <b> <br>
   <p>
-  <a target="_blank" href="https://www.instagram.com/_.siqueiraaa/">
+  <a href="https://www.instagram.com/_.siqueiraaa/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
   <br>
-  <a href="https://www.linkedin.com/in/felipesiqueiralima/" target="_blank">
+  <a href="https://www.linkedin.com/in/felipesiqueiralima/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   </p>
 
